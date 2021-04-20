@@ -18,6 +18,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	Codenayme Visuals
 	DRM Revival
 	EX Mods
+	Gilles75/AC Classics
 	Grant Hendry
 	RTM
 	SimDream
