@@ -54,6 +54,7 @@ These are paid mods made by either individuals or groups of people that you shou
 	ACW 
 	ADC 
 	ADG
+	Aijiyizhihua
 	Akuma
 	ARTKato
 	ATCC
